@@ -1,16 +1,15 @@
-## Hi there 👋
+# 🔬 Anuj Data Lab
+**Data Engineering | Mathematical Auditing | Automated Extraction**
 
-<!--
-**anuj-data-lab/anuj-data-lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to the Lab. I build resilient data infrastructure for businesses that require high-integrity market intelligence. I do not just scrape data; I extract, audit, and structure it for enterprise deployment.
 
-Here are some ideas to get you started:
+### ⚙️ The Arsenal
+* **[OVERSEER_V2](https://github.com/anuj-data-lab/OVERSEER_v2):** A statistical anomaly detection engine using Z-score mathematics to audit datasets for market intelligence and risk management.
+* **[MERCENARY_V1](https://github.com/anuj-data-lab/MERCENARY_V1):** A stealth web scraping engine engineered with Python and Selenium to bypass modern bot protections.
+* **IRONCLAD_ETL:** *(In Development - Enterprise Database Pipeline)*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Technical Stack
+* **Languages:** Python, SQL
+* **Data Processing:** Pandas, NumPy
+* **Extraction:** Selenium, BeautifulSoup
+* **Infrastructure:** SQLite, Relational Database Modeling
