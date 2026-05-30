@@ -1,15 +1,40 @@
 # 🔬 Anuj Data Lab
-**Data Engineering | Mathematical Auditing | Automated Extraction**
 
-Welcome to the Lab. I build resilient data infrastructure for businesses that require high-integrity market intelligence. I do not just scrape data; I extract, audit, and structure it for enterprise deployment.
+**Architecting automated extraction engines and mathematical anomaly detection pipelines for enterprise intelligence.**
 
-### ⚙️ The Arsenal
-* **[OVERSEER_V2](https://github.com/anuj-data-lab/OVERSEER_v2):** A statistical anomaly detection engine using Z-score mathematics to audit datasets for market intelligence and risk management.
-* **[MERCENARY_V1](https://github.com/anuj-data-lab/MERCENARY_V1):** A stealth web scraping engine engineered with Python and Selenium to bypass modern bot protections.
-* **IRONCLAD_ETL:** *(In Development - Enterprise Database Pipeline)*
+I don't just move data — I build systems that extract, audit, and structure it with precision. Currently focused on enterprise-grade data infrastructure, statistical risk modeling, and stealth extraction pipelines.
 
-### 🛠️ Technical Stack
-* **Languages:** Python, SQL
-* **Data Processing:** Pandas, NumPy
-* **Extraction:** Selenium, BeautifulSoup
-* **Infrastructure:** SQLite, Relational Database Modeling
+---
+
+## 🛠️ What I Build
+
+| Project | Description |
+|---------|-------------|
+| [AEGIS_V1](https://github.com/anuj-data-lab/AEGIS_V1) | Model Risk Management engine using Kolmogorov-Smirnov tests to detect data drift in production AI systems |
+| [OVERSEER_V2](https://github.com/anuj-data-lab/OVERSEER_v2) | Statistical anomaly detection using Z-score analysis for market intelligence and risk auditing |
+| [IRONCLAD_ETL](https://github.com/anuj-data-lab/IRONCLAD_ETL) | Robust ETL pipeline — extracts messy web data, validates integrity, loads into secure SQL databases |
+| [MERCENARY_V1](https://github.com/anuj-data-lab/MERCENARY_V1) | Stealth web scraping engine built with Python & Selenium to bypass modern bot protections |
+
+---
+
+## ⚙️ Technical Stack
+
+**Languages:** Python, SQL
+
+**Data & Math:** Pandas, NumPy, Z-score analysis, Kolmogorov-Smirnov tests
+
+**Extraction:** Selenium, BeautifulSoup
+
+**Infrastructure:** SQLite, Relational Database Modeling, ETL Pipelines
+
+---
+
+## 🔬 Currently Working On
+
+- `IRONCLAD_ETL` — hardening the pipeline for enterprise deployment
+- Expanding statistical auditing capabilities across live datasets
+- Building backend APIs with FastAPI and SQLite
+
+---
+
+*Precision over speed. Integrity over volume.*
